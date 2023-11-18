@@ -1,0 +1,19 @@
+{
+  "name": "release-test",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hertzberg205020/ReleaseTest.git"
+  },
+  "author": "Robert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hertzberg205020/ReleaseTest/issues"
+  },
+  "homepage": "https://github.com/hertzberg205020/ReleaseTest#readme"
+}
