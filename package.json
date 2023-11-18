@@ -4,7 +4,8 @@
   "description": "demo",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hertzberg205020/ReleaseTest/issues"
   },
-  "homepage": "https://github.com/hertzberg205020/ReleaseTest#readme"
+  "homepage": "https://github.com/hertzberg205020/ReleaseTest#readme",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
 }
